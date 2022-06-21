@@ -15,11 +15,12 @@
 
 ### 🙋🏽‍♂️ Sobre
 
-Me chamo Marcus Nunes e sou PhD em Estatística. Atualmente trabalho como Professor Adjunto no [Departamento de Estatística da UFRN](http://www.estatistica.ccet.ufrn.br/). Sou um entusiasta do uso do [R](https://cran.r-project.org), além de ser [o maior respondedor sobre R no StackOverflow em Português](https://pt.stackoverflow.com/tags/r/topusers). Sou o atual vice-coordenador do [Laboratório de Estatística Aplicada](http://lea.estatistica.ccet.ufrn.br/) da UFRN, órgão do Departamento de Estatística que presta consultoria estatística à comunidade. Fui professor no [Departamento de Estatística da UFJF](http://www.ufjf.br/estatistica/) entre 2013 e 2015. 
+Me chamo Marcus Nunes e sou PhD em Estatística. Atualmente trabalho como Professor Adjunto no [Departamento de Estatística da UFRN](http://www.estatistica.ccet.ufrn.br/). Sou um entusiasta do uso do [R](https://cran.r-project.org), além de ser [o segundo maior respondedor sobre R no StackOverflow em Português](https://pt.stackoverflow.com/tags/r/topusers). Sou o atual vice-coordenador do [Laboratório de Estatística Aplicada](http://lea.estatistica.ccet.ufrn.br/) da UFRN, órgão do Departamento de Estatística que presta consultoria estatística à comunidade. Fui professor no [Departamento de Estatística da UFJF](http://www.ufjf.br/estatistica/) entre 2013 e 2015. 
 
 Meu Ph.D. em Estatística foi conferido pela [Penn State University](http://stat.psu.edu/). Ganhei uma bolsa Fulbright para isto. Meus interesses acadêmicos durante o doutorado foram modelos lineares generalizados e delineamento ótimo de experimentos. Atualmente tenho me enveredado também por problemas que necessitem de técnicas de Aprendizagem de Máquina e Big Data para serem solucionados, além de Educação Estatística.
 
 Sou Bacharel em Matemática Aplicada e Mestre em Matemática Pura pela [Universidade Federal do Rio Grande do Sul](http://paginas.ufrgs.br/mat). Meu mestrado foi focado na análise de séries temporais de longa dependência com quebra estrutural.
+
 
 
 
