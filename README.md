@@ -27,9 +27,11 @@ Sou Bacharel em Matemática Aplicada e Mestre em Matemática Pura pela [Universi
 
 ### 🚧 Projetos Atuais
 
+* [Laboratório de Ciência de Dados](http://lacid.ccet.ufrn.br/): Primeiro laboratório de pesquisa especializado em Ciência de Dados no RN. É um ambiente dedicado ao desenvolvimento de projetos de pesquisa e inovação através da análise de dados, utilizando inferência e aprendizado de máquina.
+* [Laboratório de Estatística Aplicada](http://lea.estatistica.ccet.ufrn.br/): Projeto de extensão junto com outros professores e alunos da UFRN que presta consultoria estatística gratuita à comunidade acadêmica, seja da UFRN ou de outra universidade.
 * [Intro Big Data](https://introbigdata.org/): Site da disciplina Introdução à Modelagem de Big Data, ministrada aos alunos do Bacharelado em Estatística da UFRN. Contém links para o programa da disciplina, além de slides, vídeos e códigos no R. O site é acompanhado por um [repositório no github](https://github.com/mnunes/introbigdata_material).
 * [Shiny Estatística](http://shiny.estatistica.ccet.ufrn.br/): Site com aplicações interativas de estatística construídas a partir do framework `shiny` do R. 
-* [Laboratório de Estatística Aplicada](http://lea.estatistica.ccet.ufrn.br/): Projeto de extensão junto com outros professores e alunos da UFRN que presta consultoria estatística gratuita à comunidade acadêmica, seja da UFRN ou de outra universidade.
+
 
 
 
