@@ -6,7 +6,7 @@
 <a href="https://www.last.fm/user/grandeabobora"><img height="30" src="imagens/apple_music.svg"></a>&nbsp;&nbsp;
 <a href="https://pt.stackoverflow.com/users/49033/marcus-nunes"><img height="30" src="imagens/stackoverflow.svg"></a>&nbsp;&nbsp;
 <a href="http://www.linkedin.com/in/marcusanunes"><img height="30" src="imagens/linkedin.svg"></a>&nbsp;&nbsp;
-<a href="mailto:marcus@marcusnunes.me"><img height="30" src="imagens/email.svg"></a>&nbsp;&nbsp;
+<a href="mailto:marcus.nunes@ufrn.br"><img height="30" src="imagens/email.svg"></a>&nbsp;&nbsp;
 <a href="https://marcusnunes.me/"><img height="30" src="imagens/firefox.svg"></a>&nbsp;&nbsp;
 </p>
 
